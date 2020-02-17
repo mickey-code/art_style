@@ -1,0 +1,20 @@
+.intro {
+    font-style:italic;
+    color: black;
+    float: right;
+
+
+  }
+
+
+img {
+    float: left;
+  }
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
+body {
+    background:("art.jpeg") no-repeat fixed center;
+  }
